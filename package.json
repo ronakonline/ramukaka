@@ -1,0 +1,22 @@
+{
+    "name": "ramukaka",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "badwords": "^1.0.0",
+        "discord.js": "^12.2.0",
+        "giphy-js-sdk-core": "^1.0.6",
+        "loveyou-api": "^1.0.7",
+        "newsapi": "^2.4.0",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
+    }
+}
